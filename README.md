@@ -23,5 +23,7 @@ The recommendation system suggests movies similar to the one you input. It can b
 
 ## Files
 movie_recommendation.py: The main script.
+
 movie_list.pkl: Pickle file storing preprocessed movie data.
+
 similarity.pkl: Pickle file storing similarity data.
