@@ -10,7 +10,7 @@ This Python script creates a movie recommendation system using content-based fil
    
 2. Run the script:
    
-  python movie_recommendation.py
+  python movie_recommendation_system.py
 
 3. Enter a movie title, and the script will suggest similar movies based on content.
 
@@ -22,7 +22,7 @@ This Python script creates a movie recommendation system using content-based fil
 The recommendation system suggests movies similar to the one you input. It can be used for personalized movie recommendations, enhancing user experience on movie streaming platforms.
 
 ## Files
-movie_recommendation.py: The main script.
+movie_recommendation_system.py: The main script.
 
 movie_list.pkl: Pickle file storing preprocessed movie data.
 
